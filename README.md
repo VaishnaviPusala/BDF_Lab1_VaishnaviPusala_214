@@ -8,10 +8,7 @@
 - **Course:** Backend Development Fundamentals
 
 ## Live Link
-
-Not deployed. The server currently runs locally at:
-
-`http://localhost:3000`
+Deployed link : https://bdf-lab1-vaishnavi-pusala-214.vercel.app/
 
 ## Objective
 
